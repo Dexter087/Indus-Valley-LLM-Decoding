@@ -1,0 +1,147 @@
+# RESEARCH LOG: LLM Analysis of Indus Valley Seals  
+**Project**: "Can LLMs be used to Decode Ancient Scriptures"  
+**Researcher**: Daksha Mothukuri  
+**Institution**: Indian Institute of Technology Madras Zanzibar Campus
+**LLM Used**: Claude Sonnet 4 (Anthropic, 2024)  
+
+## Session 1 (20 images)
+**Date**: 15-06-2025 
+**Prompt**:  
+"Act as a historian and analyze the pics I have uploaded with only the information that these are seals excavated from the remains of the Indus Valley Civilization. Do not use the internet but your own analytical skills. Give me a description of each image separately (with no limit on words)."  
+
+**Images Uploaded**: 
+ 
+1. Early Harappan Seal - https://www.harappa.com/indus2/130.html
+2. Button Seal - https://www.harappa.com/indus2/128.html
+3. Long Rectangular Seal - https://www.harappa.com/slide/long-rectangular-seal
+4. Terminal Sign - https://www.harappa.com/seal/17.html
+5. Seal Signs - https://www.harappa.com/seal/15.html
+6. Trough - https://www.harappa.com/seal/12.html
+7. Round Seal - https://www.harappa.com/slide/mundigak-stone-seals-0
+8. Animal Seal - https://www.harappa.com/indus/35.html
+9. Yogic Seal - https://www.harappa.com/indus/33.html
+10. Bison Seal - https://www.harappa.com/indus/28.html
+11. Bull Seal - https://www.harappa.com/indus/27.html
+12. Unicorn Seal - https://www.harappa.com/indus/25.html
+13. Steatite Button Seal - https://www.harappa.com/indus3/203.html
+14. Faience Button Seal - https://www.harappa.com/indus3/187.html
+15. Intaglio Seal with Script and Unicorn - https://www.harappa.com/indus4/5.html
+16. Molded Tablet - https://www.harappa.com/slide/molded-tablet-0
+17. Indus Narrative Tablets - https://www.harappa.com/indus5/80.html
+18. Faience Tablet or Standard - https://www.harappa.com/indus3/205.html
+19. Tiger-Tree-Man - https://www.harappa.com/indus3/185.html
+20. Deity Seal - https://www.harappa.com/indus/34.html
+
+**Response**:
+I'll analyze each seal from the Indus Valley Civilization based on what I can observe in these archaeological artifacts. These seals represent one of humanity's earliest urban civilizations, dating to approximately 2600-1900 BCE.
+
+**Image 1:**
+This appears to be a square steatite seal featuring what looks like a stylized tree or plant motif. The carving shows a central vertical element with branching or leafy extensions on either side, creating a symmetrical botanical design. The relief is well-preserved, showing the sophisticated stone-carving techniques of Harappan craftsmen. The botanical motif suggests the importance of vegetation, possibly sacred trees or fertility symbols, in Indus Valley religious or ceremonial practices. The square format is typical of Harappan seals, designed for practical use in trade and administration.
+
+**Image 2:**
+This seal displays an intricate geometric pattern with interlocking angular designs. The motif appears to show a series of chevron or zigzag patterns arranged in a complex, possibly maze-like configuration. This type of geometric design demonstrates the mathematical precision and aesthetic sensibilities of Harappan artisans. Such abstract patterns might have served as identifying marks for particular merchants, clans, or administrative units, or could have held symbolic meaning related to concepts like water flow, cosmic order, or architectural elements.
+
+**Image 3:**
+This rectangular seal contains what appears to be Indus Valley script characters along with some form of architectural or structural representation. The script characters are arranged in a linear fashion, typical of Harappan writing, though the script remains undeciphered. Below or alongside the text, there seems to be a representation of what could be a building, granary, or other architectural structure, possibly indicating the seal owner's association with construction, storage, or administrative buildings.
+
+**Image 4:**
+This appears to show two impressions of the same seal, demonstrating how these seals were used to create impressions in clay. The design seems to feature curved or circular elements, possibly representing vessels, containers, or abstract symbols. The dual impression shows the practical application of these seals in administrative or commercial contexts, where multiple copies of the same mark would be needed for record-keeping or authentication purposes.
+
+**Image 5:**
+This seal impression shows what appears to be script characters along with possible geometric or symbolic elements. The characters display the characteristic angular and linear forms of Indus Valley writing. The arrangement suggests this was likely used for administrative purposes, possibly marking goods, documenting transactions, or identifying ownership. The clarity of the impression indicates the seal was well-made and frequently used.
+
+**Image 6:**
+This seal features what appears to be a vertical arrangement of elements, possibly representing a standard, pole, or ceremonial object. The design might depict some form of religious or administrative symbol, perhaps a banner or staff of office. The vertical orientation is less common in Harappan seals, making this potentially significant for understanding ceremonial or hierarchical aspects of Indus Valley society.
+
+**Image 7:**
+This is a circular seal, which is less common than the typical square format. The circular design contains what appears to be script characters arranged around the perimeter or across the surface. Circular seals might have had special significance or been used by particular classes of officials or merchants. The script arrangement suggests this was an important administrative or identification tool.
+
+**Image 8:**
+This seal depicts what clearly appears to be animals, likely bulls or water buffalo, which are among the most common motifs in Harappan seals. These animals are carved with remarkable naturalism, showing the Harappan artists' keen observation of animal anatomy and behavior. Bulls and buffalo were likely significant in both the economic and religious life of the Indus Valley people, representing wealth, power, fertility, or divine attributes. The animals appear to be in motion or positioned in a ceremonial manner.
+
+**Image 9:**
+This seal shows a combination of script characters and what appears to be an animal figure, possibly a bull or buffalo. The integration of text and imagery is characteristic of many Harappan seals, suggesting they served both practical administrative functions and symbolic purposes. The animal is depicted with the naturalistic style typical of Indus Valley art, while the script above likely identifies the seal's owner or purpose.
+
+**Image 10:**
+This seal features what appears to be animals (possibly including a bull) along with script characters. The composition shows the sophisticated ability of Harappan seal-makers to combine textual and pictorial elements in a coherent design. The animals are rendered with attention to anatomical detail, and their positioning suggests they may represent a narrative scene or symbolic arrangement.
+
+**Image 11:**
+This seal depicts what appears to be a bull or zebu with distinctive features like a prominent hump and horns. There are script characters visible, likely identifying information. The bull is carved with exceptional detail, showing the muscular structure and characteristic features of the animal. Bulls were clearly important in Harappan culture, possibly representing divinity, fertility, strength, or economic wealth through livestock.
+
+**Image 12:**
+This seal shows what appears to be a bull or similar bovine animal along with additional figures that might represent a human figure or other animals. There are also script characters present. The composition suggests a scene of interaction, possibly showing human-animal relationships that were important in Harappan society, whether in terms of animal husbandry, religious practices, or mythological narratives.
+
+**Image 13:**
+This seal features a geometric pattern of four circular or ring-like motifs arranged in a square formation. Each circle appears to have a central dot or hole, creating a regular, symmetrical pattern. This type of geometric design might represent wheels, shields, ornamental motifs, or abstract symbols with mathematical or cosmological significance. The precision of the arrangement demonstrates the Harappan appreciation for order and symmetry.
+
+**Image 14:**
+This seal displays an intricate geometric pattern that appears maze-like or labyrinthine. The design consists of interconnected rectangular or square shapes creating a complex pathway or pattern. Such sophisticated geometric designs suggest advanced mathematical understanding and might have served as identifying marks, religious symbols, or representations of architectural or urban planning concepts that were important to Harappan civilization.
+
+**Image 15:**
+This seal contains script characters along with what appears to be animal figures, including what looks like a long-necked animal (possibly an antelope or deer) and other creatures. The combination of multiple animals with text suggests this might have been used by someone involved in animal trade or whose identity was associated with various animal species. The naturalistic rendering of the animals shows the skill of Harappan artisans in depicting wildlife.
+
+**Image 16:**
+This appears to be a longer, rectangular seal showing multiple animal figures in what seems to be a narrative or processional arrangement. The animals appear to include various species, possibly showing a hunting scene, migration, or ceremonial procession. This type of narrative composition is significant as it suggests the Harappan people created visual stories or recorded important events through their seal art.
+
+**Image 17:**
+This shows what appears to be two related seal impressions featuring animal figures, including what look like bulls or other large mammals. The impressions demonstrate how seals were used to create multiple copies, essential for administrative record-keeping. The animal figures are rendered with naturalistic detail, and the composition suggests these seals were used by individuals or institutions associated with livestock or animal-related activities.
+
+**Image 18:**
+This appears to show both sides of a circular seal with intricate designs including what might be animal figures and possibly plant or tree motifs. The circular format and the presence of both animal and botanical elements suggest this seal might have had special ceremonial or religious significance. The complexity of the design indicates it belonged to someone of importance in Harappan society.
+
+**Image 19:**
+This seal fragment shows what appears to be animal figures, possibly including bovines, along with other design elements. Though partially preserved, it demonstrates the consistent quality of Harappan seal-making even in fragmentary remains. The naturalistic animal representations continue the tradition seen throughout Harappan seal art.
+
+**Image 20:**
+This larger seal presents a complex composition featuring multiple figures including what appears to be a central animal (possibly a bull or water buffalo) with human figures arranged around it. There are also script characters and what might be plant or tree motifs. This composition suggests a narrative scene, possibly mythological or ceremonial in nature. The presence of multiple human figures is particularly significant, as human representations are less common than animal motifs in Harappan seals. This seal likely belonged to someone of high status and might depict an important cultural or religious scene from Indus Valley civilization.
+
+These seals collectively demonstrate the sophisticated artistic, administrative, and possibly religious systems of the Harappan civilization, showing their mastery of stone carving, their complex urban society, and their still-mysterious writing system.
+
+**Upload Method**: Direct image uploads via Claude Sonnet 4 interface  
+**Image Sources**: All images sourced from Harappa.com (see full citations below).
+
+---
+
+## Session 2 (5 images)  
+**Date**: 15-06-2025 
+**Prompt**:
+"Kindly proceed with these as well."  
+
+**Images Uploaded**:  
+1. Moulded Tablet, Mohenjo-Daro - https://www.harappa.com/slide/moulded-tablet-mohenjo-daro
+2. Molded Tablet-2 - https://www.harappa.com/slide/molded-tablet
+3. Seal, Mohenjo-Daro - https://www.harappa.com/indus/32.html
+4. Rectangular Seal Harappa - https://www.harappa.com/indus2/156.html
+5. Kot Diji Phase Elephant Seal - https://www.harappa.com/indus5/46.html
+
+**Response**:
+I'll analyze these additional seals from the Indus Valley Civilization based on their visual characteristics and archaeological context.
+
+**Image 1:**
+This is a rectangular seal featuring what appears to be a boat or ship motif. The carving shows a vessel with distinctive curved ends, likely representing the bow and stern, with what seems to be a cabin or superstructure in the center. There are also script characters visible above the boat. This seal is particularly significant as it provides evidence of the maritime capabilities and trade networks of the Harappan civilization. The Indus Valley people were known to have extensive trade connections, including maritime trade through the Arabian Sea, and this seal likely belonged to a merchant or official involved in shipping and trade. The detailed rendering of the vessel suggests sophisticated knowledge of boat construction and navigation.
+
+**Image 2:**
+This is a cylindrical seal, which represents a different format from the typical square seals of the Harappan tradition. The cylindrical format suggests possible influence from Mesopotamian seal-making traditions, where cylinder seals were common. The carving shows multiple figures and elements arranged in a narrative composition around the cylinder's surface. At the top, there appears to be a wheel or circular symbol, and below are human figures in various poses, possibly engaged in ritual or ceremonial activities. There also appears to be an animal figure, possibly a bull or large mammal. This type of complex narrative scene on a cylinder seal indicates sophisticated artistic traditions and possibly religious or mythological content. The format suggests this may have been used for rolling impressions across clay tablets, similar to Mesopotamian administrative practices.
+
+**Image 3:**
+This square seal displays a complex composition featuring what appears to be a central large animal, likely an elephant, surrounded by other smaller figures and elements. The elephant motif is significant as it indicates the Harappan people's familiarity with these animals, which would have been important both economically (for labor and trade) and symbolically (representing power and wisdom). Around the elephant, there appear to be human figures and possibly other animals, creating a busy, narrative scene. There are also script characters visible, likely identifying the seal's owner or purpose. The intricate composition suggests this seal belonged to someone of high status, possibly involved in elephant trade or someone for whom the elephant held special ceremonial significance.
+
+**Image 4:**
+This rectangular seal contains what appears to be exclusively script characters arranged in multiple lines. The characters display the characteristic angular and linear forms of the undeciphered Indus Valley script. The neat arrangement and clear execution of the script suggests this was an important administrative or commercial document, possibly containing detailed information about transactions, ownership, or official communications. The absence of pictorial elements and the focus entirely on text indicates this seal served a purely administrative function, likely used by scribes, administrators, or merchants who needed to record and authenticate written information. The length and organization of the text suggest it may contain more complex information than the shorter inscriptions typically found on other Harappan seals.
+
+**Image 5:**
+This appears to be a fragmentary seal showing what looks like a human figure in profile. The figure appears to be wearing some form of headgear or having elaborately arranged hair, and seems to be in a dynamic pose, possibly walking or dancing. Human figures are relatively rare in Harappan seal art compared to animal motifs, making this fragment particularly valuable for understanding how the Indus Valley people represented themselves artistically. The style of representation, showing the figure in profile with attention to details of dress or adornment, demonstrates the artistic sophistication of Harappan craftsmen in depicting human forms. Though fragmentary, this seal provides insight into Harappan concepts of human representation, dress, and possibly ritual or ceremonial activities.
+
+These seals continue to demonstrate the remarkable artistic, administrative, and cultural sophistication of the Indus Valley Civilization, showing their maritime connections, administrative complexity, familiarity with diverse animals including elephants, and their methods of human representation in art.
+
+**Upload Method**: Direct image uploads via Claude Sonnet 4 interface  
+**Image Sources**: All images sourced from Harappa.com (see full citations below).
+
+===============================================
+# References
+
+## Image Sources
+Harappa Archaeological Research Project. (n.d.). *Indus Valley seals* [Photographs]. Harappa.com. https://www.harappa.com
+
+## AI Tool
+Anthropic. (2024). *Claude Sonnet 4* (Version sonnet-20240607) [Large language model]. https://www.anthropic.com
