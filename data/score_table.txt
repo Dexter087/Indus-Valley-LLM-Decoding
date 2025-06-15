@@ -1,0 +1,7 @@
+Score	Meaning
+5	Near-exact match to expert (mentions all key details)
+4	Mostly correct (1 small omission or generalization)
+3	Mixed accuracy (some right, some vague/wrong)
+2	Mostly wrong but a faint similarity exists
+1	Barely relevant to the image
+0	Completely unrelated or wrong content
