@@ -1,5 +1,5 @@
 # Indus Valley Seals: LLM Analysis  
-*A research project evaluating Claude Sonnet 4's ability to interpret ancient Indus Valley seals*  
+*A research project evaluating publicly available LLMs' (in this Claude Sonnet 4) ability to interpret ancient Indus Valley seals*  
 
 ---
 
