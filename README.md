@@ -41,3 +41,14 @@ df = pd.read_csv("data/seals_dataset.csv")
 # Filter seals with low accuracy (scores ≤ 2)
 low_accuracy_seals = df[df["accuracy_score"] <= 2]
 print(f"Seals with major inaccuracies: {len(low_accuracy_seals)}")
+```
+---
+
+## License
+Copyright © 2025 by Daksha Mothukuri  
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
