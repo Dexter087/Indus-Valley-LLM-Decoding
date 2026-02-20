@@ -55,6 +55,6 @@ Copyright © 2025 by Daksha Mothukuri
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-Active_Research-brightgreen)
+![Status](https://img.shields.io/badge/Status-Project_Concluded-lightgrey)
 
 
